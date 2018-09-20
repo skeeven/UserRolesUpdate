@@ -1,4 +1,6 @@
 # attempting to update the user
+# 20 Sep 2018
+# Author: Steven Murray
 # roleId
 # Number
 # Enter a number:
