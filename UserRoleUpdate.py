@@ -1,3 +1,4 @@
+# loop this a list of Domo User IDs and change their role
 from pydomo import Domo
 from pydomo.users import CreateUserRequest
 # This is a connection to L'Oreal US
